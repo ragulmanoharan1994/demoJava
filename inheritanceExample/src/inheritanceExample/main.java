@@ -7,6 +7,9 @@ public class main {
 		parent obj1=new child();
 		obj1.show();
 		System.out.println("This is an example for super keyword");
+		add obj2=new add();
+		obj2.addition();
+		
 
 	}
 

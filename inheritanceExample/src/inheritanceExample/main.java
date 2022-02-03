@@ -11,7 +11,7 @@ public class main {
 		obj2.addition();
 		System.out.println("This is an example for super keyword");
 		System.out.println("This is an example for super keyword");
-
+System.out.println("hello world");
 	}
 
 }

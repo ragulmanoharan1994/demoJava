@@ -12,6 +12,7 @@ int num1,num2,result;
     num2=obj1.nextInt();
     result=num1+num2;
     System.out.println("result="+result);
+    System.out.println("add");
     
   }
 }

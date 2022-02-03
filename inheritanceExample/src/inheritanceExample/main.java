@@ -6,6 +6,7 @@ public class main {
 		// TODO Auto-generated method stub
 		parent obj1=new child();
 		obj1.show();
+		System.out.println("This is an example for super keyword");
 
 	}
 

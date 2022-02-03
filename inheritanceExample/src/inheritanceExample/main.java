@@ -10,7 +10,7 @@ public class main {
 		add obj2=new add();
 		obj2.addition();
 		System.out.println("This is an example for super keyword");
-		
+		System.out.println("This is an example for super keyword");
 
 	}
 
